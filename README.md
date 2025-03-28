@@ -92,17 +92,21 @@ During this phase, I imported the cleaned datasets (PMS, LPG, AGO, and NHK) into
 ## Data Visualization
 
  ## FUEL PRICE DASHBOARDS
- ![image](https://github.com/user-attachments/assets/d845ffbe-1c34-49f9-9f6e-1574a3db27b9)
+ ![d1](https://github.com/user-attachments/assets/7e6a0c7b-fa7a-46a4-85cd-998825df291d)
 
-![DASHBOARD 2](https://github.com/user-attachments/assets/3b061c16-02ce-42f1-a48a-fa99a82c745a)
-
-
-![D3](https://github.com/user-attachments/assets/d2c0b048-0999-46ac-8be4-c958008588c9)
+![D2](https://github.com/user-attachments/assets/1d1eb6e8-2726-4c11-9663-6a19b04dddbd)
 
 
 
+![D3](https://github.com/user-attachments/assets/580d71b9-3c63-43c6-8722-dca77b9171d4)
 
-![D4](https://github.com/user-attachments/assets/17cd8d39-2f6a-45cd-bc46-f9b22415e4cc)
+
+
+![D4](https://github.com/user-attachments/assets/879ac0f4-7747-4baf-b44f-f779a19e052f)
+
+
+
+
 
 
 
@@ -143,7 +147,7 @@ Between December 2023 and December 2024, there were significant fluctuations in 
    - **AGO (per liter)**: North Central
    - **AGO (per gallon)**: North West
    - **NHK**: North East
-   - **PMS**: North East  
+   - **PMS**: South East  
    
 2. Northern regions generally experienced **higher fuel prices** compared to Southern regions due to logistical challenges and supply constraints.
 
@@ -185,7 +189,7 @@ Higher prices were observed in states with **high demand** and **limited supply*
 
 ---
 
-## Fuel Price Fluctuations Over Time
+## Fuel Price Fluctuations Over Time (NOV 2024 $ DEC 2024)
 8. **AGO prices** displayed notable month-to-month regional variations:
    - **South East**: +1.9%  
    - **South-South**: +1.8%  
@@ -195,8 +199,8 @@ Higher prices were observed in states with **high demand** and **limited supply*
    - **South West**: +0.12%  
 
    **PMS prices** showed mixed trends:
-   - Declines in **South East (-0.24%)**, **South West (-1.22%)**, **North East (-1.46%)**, **North West (-2.98%)**, and **South-South (-2.8%)**.
-   - **North Central** recorded a **significant increase of +3.66%**.
+   - Declines in **South East (-0.24%)**, **South West (-1.22%)**, **North East (-1.46%)**, **North West (-2.28%)**, and **South-South (-2.87%)**.
+   - **North Central** recorded a **significant decrease of -3.66%**.
 
 These figures underscore how **seasonal demand** and **supply chain disruptions** impacted fuel prices differently across regions in 2024.
 
@@ -204,7 +208,7 @@ These figures underscore how **seasonal demand** and **supply chain disruptions*
 
 ## Urban vs. Rural Price Trends
 9. Urban centers consistently experienced **more pronounced fuel price fluctuations** compared to rural regions:
-   - Urban hubs like **Lagos (South West)** and **Abuja (North Central)** recorded sharper changes—evidenced by the **PMS price decline of -1.22%** in South West and the **+3.66% increase** in North Central.  
+   - Urban hubs like **Lagos (South West)** and **Abuja (North Central)** recorded sharper changes—evidenced by the **PMS price decline of -1.22%** in South West and the **-3.66% decrease** in North Central.  
    - Regions with more rural characteristics, particularly in Northern states, displayed **stable pricing trends**, benefiting from **lower consumption levels** and **targeted government interventions**.
 
 This pattern suggests that **higher demand**, **transportation challenges**, and **supply chain constraints** in densely populated urban areas led to **more volatile pricing**, whereas rural areas experienced greater stability.
