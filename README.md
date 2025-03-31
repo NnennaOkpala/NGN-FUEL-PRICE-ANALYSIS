@@ -190,19 +190,39 @@ Higher prices were observed in states with **high demand** and **limited supply*
 ---
 
 ## Fuel Price Fluctuations Over Time (NOV 2024 $ DEC 2024)
-8. **AGO prices** displayed notable month-to-month regional variations:
-   - **South East**: +1.9%  
-   - **South-South**: +1.8%  
-   - **North Central**: +0.98%  
-   - **North West**: +0.97%  
-   - **North East**: +0.46%  
-   - **South West**: +0.12%  
+8. LPG (12kg)
+North East: +6.01%—This sharp increase exceeds month-to-month changes observed for AGO (+0.46%) and PMS (declines across all regions), suggesting heightened regional demand or possible disruptions.
 
-   **PMS prices** showed mixed trends:
-   - Declines in **South East (-0.24%)**, **South West (-1.22%)**, **North East (-1.46%)**, **North West (-2.28%)**, and **South-South (-2.87%)**.
-   - **North Central** recorded a **significant decrease of -3.66%**.
+South West (+0.98%), South East (+0.8%), and North West (+0.61%) reflect moderate growth, aligning with month-to-month variations seen in AGO (+0.98% in North Central, +0.12% in South West).
 
-These figures underscore how **seasonal demand** and **supply chain disruptions** impacted fuel prices differently across regions in 2024.
+NHK (Liter)
+South South: +1.2%, a significant increase that mirrors AGO (+1.8%) trends and further demonstrates South South's regional demand surge.
+
+South West (+0.9%), North Central (+0.7%), South East (+0.6%), North East (+0.5%), and North West (+0.1%) show consistent upward shifts, unlike LPG's contrasting trends, particularly in North Central.
+
+AGO
+Month-to-month increases for AGO were predominantly positive, with South East (+1.9%) leading, followed closely by South South (+1.8%) and North Central (+0.98%). This stability contrasts with the volatility seen in LPG prices.
+
+PMS
+Most regions saw declines, including South East (-0.24%), South West (-1.22%), North East (-1.46%), North West (-2.28%), and South South (-2.87%), with North Central (-3.66%) recording the sharpest decrease. This downward trend highlights a notable divergence from NHK's stability and LPG's mixed changes.
+
+South East (-3.61%) and North Central (-4.91%) experienced notable decreases, contrasting with relatively stable NHK trends in these regions.
+These figures underscore how **seasonal demand** and **supply chain disruptions** (Landing cost) impacted fuel prices differently across regions in 2024.
+
+
+# Insights Into Fuel Price Dynamics
+
+## Regional Trends
+- **LPG** shows higher volatility, with steep increases in some regions (e.g., North East) and sharp decreases in others (e.g., North Central).
+- **NHK** exhibits consistent, stable growth across regions, marking it as the most predictable fuel type in terms of month-to-month changes.
+
+## Urban vs. Rural Dynamics
+- **South South**: (+1.2% NHK, +1.8% AGO) reflects higher urban demand and logistical factors.
+- **North Central**: LPG declines (-4.91%) align with rural stability trends observed in previous data.
+
+## Fuel-Specific Variations
+- **PMS** remains the most volatile, with declines across all regions due to reduction in landing cost which reflects the price of importing and distributing the product, indicates some relief in terms of global market fluctuations and supply chain factors in December 2024. This contrasts with NHK's uniform growth and LPG's mixed trends.
+
 
 ---
 
