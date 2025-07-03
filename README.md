@@ -92,17 +92,21 @@ During this phase, I imported the cleaned datasets (PMS, LPG, AGO, and NHK) into
 ## Data Visualization
 
  ## FUEL PRICE DASHBOARDS
- ![d1](https://github.com/user-attachments/assets/7e6a0c7b-fa7a-46a4-85cd-998825df291d)
-
-![D2](https://github.com/user-attachments/assets/1d1eb6e8-2726-4c11-9663-6a19b04dddbd)
+ ![image](https://github.com/user-attachments/assets/4da98280-21fe-49f5-9183-18a10e3e5b04)
 
 
-
-![D3](https://github.com/user-attachments/assets/580d71b9-3c63-43c6-8722-dca77b9171d4)
+![image](https://github.com/user-attachments/assets/3192fe0a-f990-449a-8e31-064fc11dea1d)
 
 
 
-![D4](https://github.com/user-attachments/assets/879ac0f4-7747-4baf-b44f-f779a19e052f)
+
+![image](https://github.com/user-attachments/assets/05e08cbf-e1dc-486f-b350-46cae4daa1fd)
+
+
+
+
+![image](https://github.com/user-attachments/assets/ec29029c-f6f7-4cbf-a8ac-4d20d3249cec)
+
 
 
 
